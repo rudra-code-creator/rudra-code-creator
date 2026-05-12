@@ -13,6 +13,18 @@ That’s my **TIBER** framework.
 
 ---
 
+## 📫 Reach me
+
+- Email: **rudrakeshwani2@gmail.com**
+- LinkedIn: **[rudra-keshwani-the-tiber-guy-31272b1aa](https://www.linkedin.com/in/rudra-keshwani-the-tiber-guy-31272b1aa/)**
+- X: **[@rudrakesh123](https://x.com/rudrakesh123)**
+- GitHub: **[@rudra-code-creator](https://github.com/rudra-code-creator)**
+- Website: **[https://rudra-keshwani-personal-website.vercel.app](https://rudra-keshwani-personal-website.vercel.app)**
+
+---
+
+---
+
 ## 🚀 What I’m currently doing
 
 - Technical Cofounder at **unpaste.ai**
@@ -66,15 +78,6 @@ I’m especially interested in environments where engineers think like founders:
 - Meeting student builders, founders, and operators
 - Volunteer work across education, environment, community, and impact areas
 
----
 
-## 📫 Reach me
-
-- Email: **rudrakeshwani2@gmail.com**
-- LinkedIn: **[rudra-keshwani-the-tiber-guy-31272b1aa](https://www.linkedin.com/in/rudra-keshwani-the-tiber-guy-31272b1aa/)**
-- X: **[@rudrakesh123](https://x.com/rudrakesh123)**
-- GitHub: **[@rudra-code-creator](https://github.com/rudra-code-creator)**
-
----
 
 > Always building. Always iterating.
